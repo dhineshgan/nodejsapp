@@ -30,7 +30,7 @@ query{
   }
 }
 
-3. Create User with mutation operation
+3. Create User with mutation operation accordingly
 
 mutation{
   createUser(firstName:"sachin",lastName:"purohit",email:"sachin@sachin.com",password:"password"){
